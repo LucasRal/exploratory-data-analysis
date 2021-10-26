@@ -1,2 +1,2 @@
 # exploratory-data-analysis
-This repository contains Data analysis and real world descriptive statistcs application example with python
+This repository contains Data analysis, real world descriptive statistcs application and prediction example with python
